@@ -8,3 +8,5 @@ To run bimodal and unimodal experiments specify, the modality using t, a, and v 
 Text dimension = 300, 
 Audio dimension = 5,
 Video dimension = 20
+
+This repository is based on the code from https://github.com/pliang279/MFN for Memory Fusion Network.
